@@ -1,0 +1,24 @@
+https://www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita (search by name)
+    Mojito
+    Old Fashioned
+    Long island Tea
+    Whiskey Sour
+    Dry martini
+    Margarita
+    Manhattan
+    Paradise
+    
+https://www.thecocktaildb.com/api/json/v1/1/search.php?f=a (search by first alphabet)
+
+https://www.thecocktaildb.com/api/json/v1/1/search.php?i=vodka (search by ingredient name)
+    vodka
+    Gin 
+    Rum
+    Tequilla
+    Scotch
+    Beer
+
+FOR USING IMAGES FROM API
+Image.network(
+  'https://picsum.photos/250?image=9',
+)
